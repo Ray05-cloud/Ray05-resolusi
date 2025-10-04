@@ -4,5 +4,3 @@ Impian saya :
 -Menguasai Framework Javascript
 -Membuat Website yang bermanfaat
 
-Usulan :
--Tambahkan pembelajaran Bahasa python
